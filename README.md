@@ -4,6 +4,7 @@ An HTML file implementing a file upload form which allows users to upload video 
 ## Usage
 To use the HTML code in this repository, simply clone or download the repository to your local machine. You can then open the HTML files in a web browser to view the front-end interface of the application.
 
-![mine (2)](https://github.com/reshalgithub/htmlFileUpload/assets/112004010/d13baf8a-ca6e-4f2b-9842-613ea3e589b6)
+![mine (3)](https://github.com/reshalgithub/htmlFileUpload/assets/112004010/40eb6cad-e5f6-492a-b546-64c74ab09fc2)
+
 
 
